@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Announcing Project MINASWAN"
+author: blowmage
+description: "The one where we start this thing"
+---
+We met at the "MountainWest RubyConf 2011 Hackfest":http://mtnwestrubyconf.org/2011/ and decided there was something we needed to do to help the Ruby community which we love. We love the Ruby's culture, but as Ruby has grown in popularity we are shocked that so many have never heard of, much less internalized MINASWAN. MINASWAN means "Matz is nice and so we are nice". It used to be a way for us to promote civility and help folks as they learned about just how awesome Ruby and the Ruby community is. We need to bring it back.
